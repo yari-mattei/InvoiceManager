@@ -9,7 +9,7 @@ public class Main {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("Welcome !!!");
+		System.out.println("Invoice Manager !");
 //		Person p = new Customer("name", "surname");
 //		System.out.println("hello");
 		
